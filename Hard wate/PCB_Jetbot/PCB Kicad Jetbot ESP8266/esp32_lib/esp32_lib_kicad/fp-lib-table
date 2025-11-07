@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "fp_esp32_dev4")(type "KiCad")(uri "C:/Users/ADMIN/Downloads/esp32_devkit_38Pins-master/esp32_devkit_38Pins-master/fp_esp32_dev4.pretty")(options "")(descr ""))
-)
