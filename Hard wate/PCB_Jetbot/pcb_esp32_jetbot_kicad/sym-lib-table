@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp32_38pin")(type "KiCad")(uri "C:/Máy tính/PCB Kicad Jetbot ESP8266/esp32_lib/esp32_38pin.kicad_sym")(options "")(descr ""))
+)
